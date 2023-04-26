@@ -1,6 +1,6 @@
-ipeline{
+pipeline{
  environment {
- registry = "sdiini001/vatcal"
+ registry = "sdiini001/webcal"
         registryCredentials = "dockerhub_id"
         dockerImage = ""
     }
